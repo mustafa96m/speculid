@@ -1,0 +1,25 @@
+{
+  "name": "speculid",
+  "version": "2.0.0-alpha",
+  "description": "Resize and convert images to multiple sizes and filetypes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brightdigit/speculid.git"
+  },
+  "keywords": [
+    "graphics",
+    "images",
+    "xcode",
+    "favicon"
+  ],
+  "author": "BrightDigit, LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brightdigit/speculid/issues"
+  },
+  "homepage": "https://github.com/brightdigit/speculid#readme"
+}
