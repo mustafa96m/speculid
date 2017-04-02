@@ -8,7 +8,7 @@ var base_dir = path.join(__dirname, 'examples', 'Assets');
 var done;
 
 function runTest(file, callback) {
-  var result = speculid(file, callback);
+  var result = speculid(path.join(base_dir, file), callback);
   if (result) {
     assert(!callback);
     assert(result.then && typeof(result.then) == 'function');
