@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/brightdigit/speculid#readme",
   "dependencies": {
-    "librsvg": "^0.7.0"
+    "librsvg-prebuilt": "^0.7.5"
   },
   "devDependencies": {
     "gulp": "github:gulpjs/gulp#4.0",
