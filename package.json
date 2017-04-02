@@ -1,6 +1,6 @@
 {
   "name": "speculid",
-  "version": "2.0.0-alpha.3",
+  "version": "2.0.0-alpha.7",
   "description": "Resize and convert images to multiple sizes and filetypes.",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,9 @@
   },
   "homepage": "https://github.com/brightdigit/speculid#readme",
   "dependencies": {
-    "librsvg-prebuilt": "^0.7.5"
+    "fs-extra": "^2.1.2",
+    "librsvg-prebuilt": "^0.7.5",
+    "svg.js": "^2.5.1"
   },
   "devDependencies": {
     "gulp": "github:gulpjs/gulp#4.0",
